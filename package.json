@@ -1,0 +1,8 @@
+{
+  "name": "site-responsivo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jurgenbrecht/site-responsivo.git",
+  "author": "jurgenbrecht <jurgenbrecht@gmail.com>",
+  "license": "MIT"
+}
